@@ -1,0 +1,4 @@
+import pandas as pd      # For data manipulation and analysis
+import numpy as np       # For numerical operations (arrays, math, etc.)
+import tensorflow        # For deep learning (TensorFlow framework)
+import ultralytics       # For YOLO (You Only Look Once) object detection models
